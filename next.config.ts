@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   experimental: {
     turbopackFileSystemCacheForDev: true,
   },
-  allowedDevOrigins: ['172.31.16.129'],
+  allowedDevOrigins: ['172.31.16.129', '10.193.60.176'],
 };
 
 export default nextConfig;

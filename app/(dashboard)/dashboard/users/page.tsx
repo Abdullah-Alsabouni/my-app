@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react'
-import Link from 'next/link'
+import Link from 'next/link' // Importing Link component from next/link for client-side navigation
 
 const Users = () => {
   return (
